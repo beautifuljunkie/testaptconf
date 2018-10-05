@@ -1,0 +1,35 @@
+#deb http://kali.mirror.garr.it/mirrors/kali kali-rolling main non-free contrib
+#deb-src http://kali.mirror.garr.it/mirrors/kali kali-rolling main non-free contrib
+
+#kali-last-snapshot-backup
+#deb http://http.kali.org/kali kali-last-snapshot-backup main non-free contrib
+#deb-src http://http.kali.org/kali kali-last-snapshot-backup main non-free contrib
+
+##kali-last-snapshot
+#deb http://http.kali.org/kali kali-last-snapshot main non-free contrib
+#deb-src http://http.kali.org/kali kali-last-snapshot main non-free contrib
+
+##kali-debian-picks
+#deb http://http.kali.org/kali kali-debian-picks main non-free contrib
+#deb-src http://http.kali.org/kali kali-debian-picks main non-free contrib
+
+##kali-rolling-only
+#deb http://http.kali.org/kali kali-rolling-only main non-free contrib
+#deb-src http://http.kali.org/kali kali-rolling-only main non-free contrib
+
+##kali-rolling
+deb http://http.kali.org/kali/ kali-rolling main non-free contrib
+deb-src http://http.kali.org/kali/ kali-rolling main non-free contrib
+
+#deb http://archive.kali.org/kali/ kali-rolling main non-free contrib
+#deb-src http://archive.kali.org/kali/ kali-rolling main non-free contrib
+
+#deb http://ftp.yzu.edu.tw/Linux/kali/ kali-rolling main non-free contrib
+#deb-src http://ftp.yzu.edu.tw/Linux/kali/ kali-rolling main non-free contrib
+#deb http://ftp.harukasan.org/kali/ kali-rolling main non-free contrib
+#deb-src http://ftp.harukasan.org/kali/ kali-rolling main non-free contrib
+
+#http://mirrors.ocf.berkeley.edu/kali
+
+#deb http://mirrors.ocf.berkeley.edu/kali kali-rolling main non-free contrib
+#deb-src http://mirrors.ocf.berkeley.edu/kali kali-rolling main non-free contrib
